@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Mr. Cute",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "votes": 540
+    },
+    {
+      "id": 2,
+      "name": "Mx. Monkey",
+      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "votes": 56
+    },
+    {
+      "id": 3,
+      "name": "Ms. Zebra",
+      "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
+      "votes": 100
+    },
+    {
+      "id": 4,
+      "name": "Dr. Lion",
+      "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
+      "votes": 0
+    },
+    {
+      "id": 5,
+      "name": "Mme. Panda",
+      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
+      "votes": 350
+    },
+    {
+      "name": "cat",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Ffacts%2Fdomestic-cat&psig=AOvVaw1mIw6W4_GrBOwu6BacxMZR&ust=1696419103857000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCODR5-Pj2YEDFQAAAAAdAAAAABAI",
+      "votes": 430,
+      "id": 6
+    },
+    {
+      "name": "dog",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCat&psig=AOvVaw1mIw6W4_GrBOwu6BacxMZR&ust=1696419103857000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCODR5-Pj2YEDFQAAAAAdAAAAABAD",
+      "votes": 545,
+      "id": 7
+    }
+  ]
+}
